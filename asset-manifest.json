@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/git-project-weblanceer/static/css/main.35c3e3f3.chunk.css",
+    "main.js": "/git-project-weblanceer/static/js/main.e08efb87.chunk.js",
+    "main.js.map": "/git-project-weblanceer/static/js/main.e08efb87.chunk.js.map",
+    "runtime-main.js": "/git-project-weblanceer/static/js/runtime-main.442b095c.js",
+    "runtime-main.js.map": "/git-project-weblanceer/static/js/runtime-main.442b095c.js.map",
+    "static/css/2.e8c92a4d.chunk.css": "/git-project-weblanceer/static/css/2.e8c92a4d.chunk.css",
+    "static/js/2.930e7cc7.chunk.js": "/git-project-weblanceer/static/js/2.930e7cc7.chunk.js",
+    "static/js/2.930e7cc7.chunk.js.map": "/git-project-weblanceer/static/js/2.930e7cc7.chunk.js.map",
+    "index.html": "/git-project-weblanceer/index.html",
+    "static/css/2.e8c92a4d.chunk.css.map": "/git-project-weblanceer/static/css/2.e8c92a4d.chunk.css.map",
+    "static/css/main.35c3e3f3.chunk.css.map": "/git-project-weblanceer/static/css/main.35c3e3f3.chunk.css.map",
+    "static/js/2.930e7cc7.chunk.js.LICENSE.txt": "/git-project-weblanceer/static/js/2.930e7cc7.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/git-project-weblanceer/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.442b095c.js",
+    "static/css/2.e8c92a4d.chunk.css",
+    "static/js/2.930e7cc7.chunk.js",
+    "static/css/main.35c3e3f3.chunk.css",
+    "static/js/main.e08efb87.chunk.js"
+  ]
+}
