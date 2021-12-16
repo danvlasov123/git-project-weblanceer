@@ -1,0 +1,50 @@
+.white {
+  color: white !important;
+}
+
+.sidebar-menu {
+  width: 260px !important;
+}
+.slidbar__menu-header {
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.ui.vertical.menu .item:before {
+  display: none !important;
+}
+.menu__name {
+  text-align: start !important;
+}
+.slidebar__menu {
+  display: flex !important;
+  justify-content: flex-start;
+  font-size: 14px;
+  cursor: pointer;
+}
+.menu__icon {
+  margin-right: 7px !important;
+}
+.menu__accordion {
+  width: 100% !important;
+}
+.menu__item {
+  padding: 13px 16px !important;
+}
+
+.menu__accordion-content {
+  text-align: start !important;
+  font-size: 14px !important;
+  padding: 13px 24px !important;
+  color: white !important;
+}
+
+.menu__link {
+  cursor: pointer;
+  transition: opacity 0.2s linear;
+}
+.menu__link:hover {
+  opacity: 0.8;
+}
